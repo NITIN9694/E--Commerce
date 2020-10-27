@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857684353129",
+    "firebase_url": "https://petsell.firebaseio.com",
+    "project_id": "petsell",
+    "storage_bucket": "petsell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857684353129:android:331a8a26fcf5b569bcc2f8",
+        "android_client_info": {
+          "package_name": "com.example.Petsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857684353129-devk6f9eef0l0vvma7uefsk6agoj67er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLed-J0BpKYRqkXlI-YWwF4nxzUeoIWOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857684353129-devk6f9eef0l0vvma7uefsk6agoj67er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
