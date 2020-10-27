@@ -16,6 +16,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![Untitled](https://user-images.githubusercontent.com/61863033/97308488-ed3fd580-1886-11eb-94ea-4af046f0d01f.png)
+
 1.Backend-Firebase
-\n2.Adoped Pet.
+
+2.Adoped Pet.
+
 3.Sell Pet.
